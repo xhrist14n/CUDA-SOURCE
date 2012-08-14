@@ -1,0 +1,23 @@
+Modo TBB
+--------------------------------
+Longitud de array: 10000
+El tiempo de ejecucion es: 0.012
+Longitud de array: 100000
+El tiempo de ejecucion es: 0.016
+Longitud de array: 1000000
+El tiempo de ejecucion es: 0.064
+Longitud de array: 10000000
+El tiempo de ejecucion es: 0.345
+
+Modo Normal
+--------------------------------
+Longitud de array: 10000
+El tiempo de ejecucion es: 0
+Longitud de array: 100000
+El tiempo de ejecucion es: 0.001
+Longitud de array: 1000000
+El tiempo de ejecucion es: 0.017
+Longitud de array: 10000000
+El tiempo de ejecucion es: 0.12
+
+CLOCKS_PER_SEC:1000
